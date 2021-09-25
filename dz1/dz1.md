@@ -34,8 +34,8 @@ _Это_ _событие_ _полностью_ _____ _его_.
 ******************
 ##### Ознакомиться с опросом и его результатами можно тут:
 
-1. [опрос](https://forms.gle/SS6saDbCeAPen4NZ7)
+1. [Опрос](https://forms.gle/SS6saDbCeAPen4NZ7)
 
-2. [таблица](https://docs.google.com/spreadsheets/d/1HovBaVoGMN0fCTX6NDLVv6WFa4f6MGv9xJ-4WdMKu8g/edit?usp=sharing)
+2. [Таблица, лист Contigency](https://docs.google.com/spreadsheets/d/1HovBaVoGMN0fCTX6NDLVv6WFa4f6MGv9xJ-4WdMKu8g/edit?usp=sharing)
 
 
